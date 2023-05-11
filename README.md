@@ -14,4 +14,4 @@ Furthermore, our repository contains the complete visualization and results in t
 <a id="1">[1]</a> 
 H. Sarmiento,  F. Bravo-Marquez, E. Graells-Garrido, B. Poblete (2022). 
 **Identifying and Characterizing new Expressions of Community Framing during Polarization**. 
-In Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM), Atlanta, Georgia, USA. (to appear)
+In Proceedings of the 16th The International AAAI Conference on Web and Social Media (ICWSM), Atlanta, Georgia, USA.
